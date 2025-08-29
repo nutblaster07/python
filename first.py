@@ -1,3 +1,5 @@
 import math
-a=int(math.sqrt(10))
-print(a)
+def chai(n):
+    print(int(math.sqrt(n)))
+
+chai(25)
